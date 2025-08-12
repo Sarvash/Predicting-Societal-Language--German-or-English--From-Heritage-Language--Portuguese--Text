@@ -1,0 +1,656 @@
+Feature,Category
+Number Of Letters,Count
+Number of Tokens,Count
+Number of Word Types,Count
+Number of Syntactic Constituents: Prepositional Phrase,Count
+Number of POS Feature: Noun Lemma Types,Count
+Lexical Sophistication Feature: Age of Acquisition (LW Type),Lexical
+Number of Tokens with More Than 2 Syllables,Count
+Number of POS Feature: Noun Types,Count
+Number of POS Feature: Noun Tokens,Count
+Lexical Richness: Type Token Ratio (Root TTR Nouns),Lexical
+Number of syllables,Count
+Number of POS Feature: Lexical word Tokens,Count
+Lexical Richness: Type Token Ratio (STTR),Lexical
+Number of Word Tokens (including Punctuation and Numbers),Count
+Number of Word Types (including Punctuation and Numbers),Count
+Lexical Richness: Type Token Ratio (Corrected TTR),Lexical
+Number of POS Feature: Lexical word Types,Count
+Number of POS Feature: Lexical word Lemma Types,Count
+Lexical Richness: Type Token Ratio (Root TTR Lexical Words),Lexical
+Mean Sentence Length in Syllables,Count
+Lexical Richness: Type Token Ratio (STTR Words),Lexical
+POS Density Feature: Interjection,Lexical
+Lexical Richness: Type Token Ratio (STTR Lexical Words),Lexical
+Number of Word Tokens (excluding punctuation and numbers),Count
+Lexical Richness: Type Token Ratio (Corrected TTR Nouns),Lexical
+Lexical Richness: Type Token Ratio (Corrected TTR Lexical Words),Lexical
+Morphological Complexity Inflection Feature: First Person per word token,Morphological
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (AW Type),Lexical
+Lexical Richness: Type Token Ratio (Root TTR Words),Lexical
+Number of Word Types with More Than 2 Syllables,Count
+Number of Unique Words,Count
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD AW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (AW Type),Lexical
+SD Global Edit Distance for tokens,Lexical
+Lexical Sophistication Feature: Age of Acquisition (AW Token),Lexical
+Lexical Richness: Type Token Ratio (STTR Nouns),Lexical
+Number of Syntactic Constituents: Complex Noun Phrase,Count
+Number of Syntactic Constituents: Noun Phrase,Count
+Mean Sentence Length in Letters,Count
+Syntactic Complexity Feature: Prepositional Phrases per Sentence,Syntactic
+Lexical Sophistication Feature: Concreteness (AW Type),Lexical
+Lexical Richness: Type Token Ratio (Corrected TTR Words),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (V Token),Lexical
+Number of Sentences,Count
+Number of Syntactic Constituents: Sentences,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (V Type),Lexical
+Lexical Richness: Type Token Ratio (Root TTR),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (V Type),Lexical
+SD Sentence Length in Letters,Discourse
+Number of POS Feature: Adjective Tokens,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (LW Type),Lexical
+SD Token Length in Letters,Lexical
+Lexical Richness: Type Token Ratio (STTR Adjectives),Lexical
+Lexical Sophistication Feature: Imageability (LW Type),Lexical
+Lexical Sophistication Feature: Concreteness (LW Type),Lexical
+Lexical Richness: Type Token Ratio (10 Segments),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (V Token),Lexical
+Mean Token Length in Syllables,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (AW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (LW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (Adv Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (AW Type),Lexical
+SD Global Edit Distance for Lemmas,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD AW Type),Lexical
+Number of Syntactic Constituents: Complex T-units,Count
+Number of Syntactic Constituents: Complementizer Phrase,Count
+Lexical Richness: Type Token Ratio (Corrected TTR Adjectives),Lexical
+Mean Local Edit Distance for POS,Lexical
+POS Density Feature: Punctuation,Discourse
+Lexical Sophistication Feature: Imageability (AW Type),Lexical
+Lexical Richness: Type Token Ratio (Root TTR Adjectives),Lexical
+Lexical Richness: Type Token Ratio (TTR Words),Lexical
+Lexical Sophistication Feature: Imageability (AW Token),Lexical
+Morphological Complexity Inflection Feature: Any Person per word token,Morphological
+Lexical Sophistication Feature: Concreteness (LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (LW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (V Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD AW Type),Lexical
+Lexical Sophistication Feature: Concreteness (AW Token),Lexical
+SD Token Length in Syllables,Lexical
+Lexical Richness: Type Token Ratio (Uber),Lexical
+Number of POS Feature: Adjective Types,Count
+Number of POS Feature: Adjective and Adverb Types,Count
+POS Density Feature: Verb,Lexical
+Syntactic Complexity Feature: Noun Phrases per T-unit,Syntactic
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD LW Type),Lexical
+Syntactic Complexity Feature: Prepositional Phrases per T-Unit,Syntactic
+Lexical Variation Feature: Adverb,Lexical
+POS Density Feature: Common Noun,Lexical
+Morphological Complexity Inflection Feature: Indicatives per word token,Morphological
+Lexical Richness: Type Token Ratio (Log10 TTR Nouns),Lexical
+Lexical Sophistication Feature: Age of Acquisition (LW Token),Lexical
+Percentage of Word Types with More Than 2 Syllables,Lexical
+Lexical Richness: Type Token Ratio (Uber10),Lexical
+Syntactic Complexity Feature: Sentence Coordination Ratio,Syntactic
+Lexical Richness: Type Token Ratio (Segments of Length 50),Lexical
+Morphological Complexity Inflection Feature: Past Participle Verb per Verb Token,Morphological
+Syntactic Complexity Feature: Mean Length of Clause,Syntactic
+Lexical Richness: Type Token Ratio (TTR),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Top 5000,Lexical
+Lexical Richness: Type Token Ratio (Root TTR Adverbs),Lexical
+Number of POS Feature: Punctuation Tokens,Count
+POS Density Feature: Auxiliary Verb,Lexical
+Lexical Richness: Type Token Ratio (Log10 TTR Adjectives),Lexical
+Number of Syntactic Constituents: Verb Phrase,Count
+SD Sentence Length in Tokens,Discourse
+Morphological Complexity Inflection Feature: Imperfect tense per verb token,Morphological
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (V Token),Lexical
+Syntactic Complexity Feature: Sentence Complexity Ratio,Syntactic
+Lexical Variation Feature: Adjective,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD Adv Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adj Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (V Token),Lexical
+Morphological Complexity Inflection Feature: Past Participle Verb Density,Morphological
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD V Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (AW Token),Lexical
+Lexical Sophistication Feature: Portuguese Vocabulary Profile B1,Lexical
+Percentage of Tokens with More Than 2 Syllables,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Band 2,Lexical
+Number of POS Feature: Adjective Lemma Types,Count
+Lexical Variation Feature: Squared Verb Variation 1,Lexical
+Mean Sentence Length in Tokens,Count
+POS Density Feature: Functional Words,Lexical
+Mean Clause Length in Tokens,Count
+Lexical Richness: Type Token Ratio (STTR Verbs),Lexical
+Lexical Sophistication Feature: Familiarity (LW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD V Token),Lexical
+Referential Cohesion: Mean Global Lexical Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD V Token),Lexical
+Lexical Variation Feature: Modifier,Lexical
+Lexical Richness: Type Token Ratio (Corrected TTR Adverbs),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD AW Token),Lexical
+Lexical Richness: Type Token Ratio (Log TTR),Lexical
+Mean Global Edit Distance for tokens,Lexical
+Syntactic Complexity Feature: Coordinate Phrases per Clause,Syntactic
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (Adv Type),Lexical
+Mean Global Edit Distance for POS,Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD Adv Type),Lexical
+Lexical Richness: Type Token Ratio (TTR Adjectives per Lexical Types),Lexical
+Lexical Richness: Type Token Ratio (Log10 TTR Lexical Words),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (AW Token),Lexical
+Lexical Richness: Type Token Ratio (TTR Adjectives and Adverbs per Lexical Types),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD Adv Token),Lexical
+Lexical Sophistication Feature: Portuguese Vocabulary Profile A2,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD Adv Type),Lexical
+Lexical Richness: Type Token Ratio (TTR Nouns),Lexical
+Referential Cohesion: SD of Global Lexical Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (Adj Type),Lexical
+Lexical Richness: Type Token Ratio (TTR Adverbs per Lexical Types),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD AW Token),Lexical
+Morphological Complexity Inflection Feature: Third Person per word token,Morphological
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (LW Token),Lexical
+POS Density Feature: Cardinal Number,Lexical
+Mean Token Length in Letters,Lexical
+POS Density Feature: Preposition,Lexical
+Number of POS Feature: Verb Tokens (including Modals),Count
+Lexical Sophistication Feature: SUBTLEX Frequency Top 1000,Lexical
+Mean Global Edit Distance for Lemmas,Lexical
+POS Density Feature: Conjunction,Lexical
+Lexical Richness: Type Token Ratio (TTR Verbs incl. modals),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD FW Type),Lexical
+Lexical Sophistication Feature: Imageability (LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD Adv Type),Lexical
+Lexical Sophistication Feature: Familiarity (LW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD Adj Type),Lexical
+Number of Syntactic Functions: Null Subject,Count
+Syntactic Complexity Feature: Coordinate Phrases per T-unit,Syntactic
+SD Local Edit Distance for POS,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (FW Type),Lexical
+Morphological Complexity Inflection Feature: Accusative Case per Token,Morphological
+Lexical Variation Feature: Verb,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (V Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (FW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (AW Token),Lexical
+Number of POS Feature: Punctuation Types,Count
+Syntactic Complexity Feature: Dependent clauses per T-unit,Syntactic
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (N Type),Lexical
+Syntactic Complexity Feature: Prenominal Modifier per Complex Noun Phrase,Syntactic
+Syntactic Complexity Feature: Dependent clause ratio,Syntactic
+Number of Syntactic Constituents: Relative Clauses,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD N Type),Lexical
+Syntactic Complexity Feature: Dependent clauses per Sentence,Syntactic
+Number of Morphological Features: Imperfect Verbs,Count
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD FW Type),Lexical
+Lexical Richness: Type Token Ratio (STTR Adverbs),Lexical
+Lexical Richness: Type Token Ratio (Log10 TTR),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (Adj Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Band 6,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (Adj Token),Lexical
+Number of POS Feature: Adjective and Adverb Tokens,Count
+Syntactic Complexity Feature: Mean Length of Prepositional Phrase,Syntactic
+SD Local Edit Distance for Lemmas,Lexical
+POS Density Feature: Article,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD LW Token),Lexical
+Syntactic Complexity Feature: Relative Clauses per Clause,Syntactic
+Syntactic Complexity Feature: Inverse Order (VS) per Sentence,Syntactic
+Lexical Sophistication Feature: SUBTLEX Frequency Top 4000,Lexical
+Lexical Variation Feature: Lexical,Lexical
+Lexical Sophistication Feature: Portuguese Vocabulary Profile B2,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD LW Type),Lexical
+Number of Syntactic Constituents: Clauses,Count
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (FW Type),Lexical
+Lexical Richness: Type Token Ratio (TTR Lexical Words),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (Adv Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (Adv Token),Lexical
+Syntactic Complexity Feature: Verb Cluster per Clause,Syntactic
+POS Density Feature: Adjective,Lexical
+Referential Cohesion: Global Argument Overlap (lemma-based),Discourse
+Number of Connectives: Mendes Single-Word Connectives,Count
+Morphological Complexity Inflection Feature: Nominative Case per Token,Morphological
+Syntactic Complexity Feature: Subordinate Clauses per Sentence,Syntactic
+Lexical Sophistication Feature: Familiarity (AW Token),Lexical
+Syntactic Complexity Feature: Verb Phrases per Sentence,Syntactic
+Lexical Density Feature: Lexical Words per Word,Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Top 6000 and Below,Lexical
+Syntactic Complexity: Clitics per VP,Syntactic
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD N Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD LW Type),Lexical
+Lexical Richness: Type Token Ratio (Log10 TTR Words),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD FW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD Adv Token),Lexical
+Syntactic Complexity Feature: Complex T-unit per Sentence,Syntactic
+POS Density Feature: Lexical Words,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adv Type),Lexical
+POS Density Feature: Determiner,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD N Token),Lexical
+Referential Cohesion: Mean Global Argument Overlap (lemma-based),Discourse
+Number of Syntactic Constituents: Adjectival Clause,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD N Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (N Type),Lexical
+Lexical Richness: MTLD (excluding punctuation and numbers),Lexical
+Mean Local Edit Distance for tokens,Lexical
+Lexical Variation Feature: Noun,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (Adj Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Top 3000,Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Band 3,Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (FW Token),Lexical
+Cohesive Complexity Feature: Mendes Single-Word Connectives per Token,Discourse
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD N Token),Lexical
+Lexical Variation Feature: Corrected Verb Variation 1,Lexical
+Referential Cohesion: Mean Global Noun Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD Adj Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD FW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD V Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (LW Type),Lexical
+Number of Connectives: Mendes All Connectives,Count
+SD Sentence Length in Syllables,Discourse
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD V Type),Lexical
+Morphological Complexity Inflection Feature: Masculine inflection per word token,Morphological
+Referential Cohesion: Mean Global Noun Overlap (word form-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Frequency Band 4,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD N Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD V Type),Lexical
+Morphological Complexity Inflection Feature: Preterite Verb per Verb Token,Morphological
+Syntactic Complexity Feature: Verb Cluster per Sentence,Syntactic
+Syntactic Complexity Feature: Verb Phrases per Clause,Syntactic
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD FW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD V Token),Lexical
+Mean Local Edit Distance for Lemmas,Lexical
+Morphological Complexity Inflection Feature: Infinite Verb Density,Morphological
+Referential Cohesion: SD of Global Noun Overlap (word form-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (AW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (Adj Type),Lexical
+Number of POS Feature: Verb Lemma Types,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (N Token),Lexical
+Morphological Complexity Inflection Feature: Past tense per verb token,Morphological
+Number of POS Feature: Verb Types (without Modals),Count
+Lexical Richness: HDD (excluding punctuation and numbers),Lexical
+Lexical Variation Feature: Verb Variation 1,Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD Adj Token),Lexical
+Syntactic Complexity Feature: Complex Nominals per Sentence,Syntactic
+POS Density Feature: Subordinating Conjunction,Lexical
+Morphological Complexity Inflection Feature: Passive verbs per verb token,Morphological
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (N Type),Lexical
+Cohesive Complexity Feature: Mendes All Connectives per Token,Discourse
+Syntactic Complexity Feature: Adverbial Clause per Sentence,Syntactic
+Referential Cohesion: Local Lexical Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (Adj Token),Lexical
+Number of Connectives: Easy Connectives,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (Adv Token),Lexical
+Syntactic Complexity Feature: Null Subjects per Sentence,Syntactic
+Number of POS Feature: Cardinal number Tokens,Count
+Number of POS Feature: Verb Types (including Modals),Count
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (LW Token),Lexical
+Number of POS Feature: Adverb Tokens,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (Adv Token),Lexical
+Referential Cohesion: SD of Global Noun Overlap (lemma-based),Discourse
+Cohesive Complexity Feature: Mendes Causal Connectives per Token,Discourse
+Syntactic Complexity Feature: Open clausal Complements per Sentence,Syntactic
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD LW Type),Lexical
+Cohesive Complexity Feature: Easy Connectives per Token,Discourse
+Syntactic Complexity Feature: Relative Clauses per Sentence,Syntactic
+Referential Cohesion: Global Noun Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (FW Token),Lexical
+Syntactic Complexity Feature: Prepositional Phrases per Clause,Syntactic
+Mean T-unit Length in Tokens,Count
+Morphological Complexity Inflection Feature: Second Person per word token,Morphological
+Syntactic Complexity Feature: Asyndetic Coordinate Phrases per Sentence,Syntactic
+Syntactic Complexity Feature: T-unit complexity ratio,Syntactic
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (Adv Type),Lexical
+Syntactic Complexity Feature: Mean Length of Verb Cluster,Syntactic
+Number of Morphological Features: Subjunctive Verbs,Count
+Lexical Sophistication Feature: Portuguese Vocabulary Profile A1,Lexical
+Number of Morphological Features: Preterite Verb,Count
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD N Type),Lexical
+SD Local Edit Distance for tokens,Lexical
+Lexical Richness: Type Token Ratio (TTR Nouns per Lexical Types),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (FW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD FW Type),Lexical
+POS Density Feature: Proper Noun,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD Adj Type),Lexical
+SD Left Embeddedness,Syntactic
+Cohesive Complexity Feature: Mendes Additive Connectives per Token,Discourse
+Number of Syntactic Constituents: T-units,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adj Type),Lexical
+Morphological Complexity Inflection Feature: Indicatives per Verb,Morphological
+Lexical Richness: Type Token Ratio (TTR Verbs incl. modals per Lexical Types),Lexical
+Number of POS Feature: Adverb Lemma Types,Count
+POS Density Feature: Pronoun,Lexical
+Number of Morphological Features: Relative Pronouns,Count
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD LW Token),Lexical
+Number of Syntactic Constituents: Verb Cluster,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD FW Token),Lexical
+Number of Syntactic Constituents: Prenominal Noun Modifier,Count
+Number of Connectives: Difficult Connectives,Count
+POS Density Feature: Coordinating Conjunction,Lexical
+Number of Syntactic Functions: Open Clausal Complement,Count
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD AW Token),Lexical
+Morphological Complexity Inflection Feature: Subjunctives per verb token,Morphological
+Number of Syntactic Constituents: Dependent Clauses,Count
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (N Token),Lexical
+Syntactic Complexity Feature: Mean Length of Complex T-unit,Syntactic
+Syntactic Complexity Feature: Relative Clauses per T-Unit,Syntactic
+Syntactic Complexity Feature: Mean Length of T-unit,Syntactic
+Referential Cohesion: SD of Local Lexical Overlap (lemma-based),Discourse
+SD Global Edit Distance for POS,Discourse
+Number of Syntactic Function: VS Order,Count
+Lexical Sophistication Feature: Concreteness (FW Token),Lexical
+Number of Syntactic Constituents: Inverse Order,Count
+Lexical Richness: Type Token Ratio (Log10 TTR Adverbs),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Top 2000,Lexical
+Morphological Complexity Inflection Feature: Dative Case per Token,Morphological
+Syntactic Complexity Feature: Coordinate Phrases per Sentence,Syntactic
+Lexical Richness: Type Token Ratio (Root TTR Verbs),Lexical
+POS Density Feature: Modifier,Lexical
+Number of Syntactic Functions: Agent Modifier,Count
+Number of POS Feature: Cardinal number Types,Count
+Syntactic Complexity Feature: Complex Nominals per T-unit,Syntactic
+Number of Syntactic Constituents: Coordinate Phrases,Count
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD Adj Token),Lexical
+Referential Cohesion: Global Lemma Overlap,Discourse
+Morphological Complexity Inflection Feature: Subjunctives per word token,Morphological
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (Adj Token),Lexical
+Syntactic Complexity Feature: Verb Cluster per T-Unit,Syntactic
+Lexical Sophistication Feature: SUBTLEX Frequency Band 7,Lexical
+Syntactic Complexity Feature: Noun Phrases per Clause,Syntactic
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD AW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (SD Adv Token),Lexical
+Morphological Complexity Inflection Feature: Gerund Verb per Verb Token,Morphological
+Referential Cohesion: SD of Global Argument Overlap (lemma-based),Discourse
+Cohesive Complexity Feature: Mendes Multi- to Single-Word Connectives,Discourse
+Lexical Richness: Type Token Ratio (Corrected TTR Verbs),Lexical
+Syntactic Complexity Feature: Clausal Subjects per Sentence,Syntactic
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (FW Token),Lexical
+Cohesive Complexity Feature: Mendes Concessive Connectives per Token,Discourse
+Morphological Complexity Inflection Feature: Singular per word token,Morphological
+Morphological Complexity Inflection Feature: Present Subjunctive Verb per Verb Token,Morphological
+Referential Cohesion: Global Lexical Overlap (lemma-based),Discourse
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (N Type),Lexical
+Syntactic Complexity Feature: Adjectival Clause per Sentence,Syntactic
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (Adv Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD V Token),Lexical
+Lexical Richness: Type Token Ratio (Log10 TTR Verbs),Lexical
+Syntactic Complexity: Enclitics per VP,Syntactic
+Syntactic Complexity Feature: Clausal Complements per Sentence,Syntactic
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (Adj Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (LW Token),Lexical
+Syntactic Complexity Feature: Complex Nominals per Clause,Syntactic
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (FW Token),Lexical
+Morphological Complexity Inflection Feature: Feminine inflection per word token,Morphological
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD N Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Word Frequency (N Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (N Token),Lexical
+Number of POS Feature: Verb Tokens (without Modals),Count
+Number of Syntactic Constituents: Asyndetic Coordinate Phrases,Count
+POS Density Feature: Adverb,Lexical
+Lexical Richness: Type Token Ratio (TTR Adjectives),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Band 1,Lexical
+Number of Connectives: Mendes Causal Connectives,Count
+Syntactic Complexity Feature: Mean Length of Noun Phrase,Syntactic
+Lexical Sophistication Feature: Complex Word,Lexical
+Syntactic Complexity Feature: Verb Phrases per T-unit,Syntactic
+Morphological Complexity Inflection Feature: Number per word token,Morphological
+Number of Syntactic Constituents: Passive Sentences,Count
+Syntactic Complexity: Proclitics per VP,Syntactic
+Syntactic Complexity Feature: It-Clefts per VP,Syntactic
+Number of Syntactic Constituents: Adverbial Clauses,Count
+POS Density Feature: Noun,Lexical
+Dependency Locality Theory: Maximal IC at Finite Verb (less coordination weight + higher verb weight),Syntactic
+Referential Cohesion: Global Noun Overlap (word form-based),Discourse
+Syntactic Complexity Feature: Disjunctive Coordinate Phrases per Sentence,Syntactic
+Cohesive Complexity Feature: Difficult Connectives per Token,Discourse
+Number of Morphological Features: Present Subjunctive Verb,Count
+Number of Syntactic Functions: Clausal Subject,Count
+Number of Syntactic Constituents: Subordinate Clauses,Count
+enclitics,Count
+Number of Morphological Features: Passive Verb,Count
+Lexical Richness: Type Token Ratio (TTR Adverbs),Lexical
+Morphological Complexity Inflection Feature: Future tense per verb token,Morphological
+Lexical Sophistication Feature: SUBTLEX Contextual Diversity (SD Adj Type),Lexical
+Referential Cohesion: SD of Local Noun Overlap (lemma-based),Discourse
+Referential Cohesion: Local Lemma Overlap,Discourse
+Number of Morphological Features: Conditional Verb,Count
+Cohesive Complexity Feature: Mendes Temporal Connectives per Token,Discourse
+Number of Connectives: Mendes Temporal Connectives,Count
+POS Density Feature: Symbol,Lexical
+Mean Left Embeddedness,Syntactic
+Referential Cohesion: Local Argument Overlap (lemma-based),Discourse
+Cohesive Complexity Feature: Mendes Single-Word Connectives per Connective,Discourse
+Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight),Syntactic
+Number of Morphological Features: Indefinite Pronouns,Count
+Number of Connectives: Mendes Additive Connectives,Count
+Number of Syntactic Constituents: It-Clefts,Count
+POS Density Feature: Foreign Word,Lexical
+Referential Cohesion: Mean Local Lexical Overlap (lemma-based),Discourse
+Number of Morphological Features: Superlative Degree,Count
+Number of Morphological Features: Pluperfect Verbs,Count
+clitics,Count
+Morphological Complexity Inflection Feature: Superlative Adjective per Adjective Token,Morphological
+proclitics,Count
+Syntactic Complexity Feature: Pseudoclefts per VP,Syntactic
+Number of Connectives: Mendes Concessive Connectives,Count
+Number of Morphological Features: Simple Future Verbs,Count
+Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight + less coordination weight),Syntactic
+Number of Syntactic Constituents: Pseudoclefts,Count
+Morphological Complexity Inflection Feature: Conditional tense per verb token,Morphological
+Number of Connectives: Mendes Multi-Word Connectives,Count
+Dependency Locality Theory: Maximal IC at Finite Verb (no modifier weight + less coordination weight + added verb weight),Syntactic
+Number of Syntactic Constituents: e-que Clefts,Count
+Number of Syntactic Constituents: Disjunctive Coordinate Phrases,Count
+Syntactic Complexity Feature: Complex T-unit Ratio,Syntactic
+Syntactic Complexity Feature: e-que Cleft per VP,Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (higher verb weight),Syntactic
+Referential Cohesion: Mean Local Noun Overlap (lemma-based),Discourse
+Referential Cohesion: SD of Local Argument Overlap (lemma-based),Discourse
+Referential Cohesion: Mean Local Noun Overlap (word form-based),Discourse
+Morphological Complexity Inflection Feature: Gender inflection per word token,Morphological
+Dependency Locality Theory: Total IC at Finite Verb (no modifier weight + less coordination weight),Syntactic
+Dependency Locality Theory: Maximal IC at Finite Verb (less coordination weight),Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (original cost configuration),Syntactic
+Number of Syntactic Function: Clausal Complement,Count
+Referential Cohesion: Mean Local Argument Overlap (lemma-based),Discourse
+POS Density Feature: Particle,Lexical
+Dependency Locality Theory: Maximal IC at Finite Verb (higher verb weight),Syntactic
+mesoclitics,Count
+Syntactic Complexity: Mesoclitics per VP,Syntactic
+Referential Cohesion: Local Noun Overlap (word form-based),Discourse
+Number of Syntactic Constituents: WH-Clefts,Count
+Referential Cohesion: SD of Local Noun Overlap (word form-based),Discourse
+Referential Cohesion: Local Noun Overlap (lemma-based),Discourse
+Syntactic Complexity Feature: WH-Clefts per VP,Syntactic
+Syntactic Complexity Feature: Inverted Pseudoclefts per VP,Syntactic
+Dependency Locality Theory: Maximal IC at Finite Verb (original cost configuration),Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (less coordination weight + higher verb weight),Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (less coordination weight),Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (no modifier weight),Syntactic
+Number of Syntactic Constituents: Postnominal Noun Modifier,Count
+Number of Syntactic Constituents: Inverted Pseudoclefts,Count
+Syntactic Complexity Feature: Postnominal Modifier per Complex Noun Phrase,Syntactic
+Number of Syntactic Constituents: Copulative Coordinate Phrases,Count
+Morphological Complexity Inflection Feature: Imperatives per Verb,Morphological
+Morphological Complexity Inflection Feature: Imperatives per word token,Morphological
+Morphological Complexity Inflection Feature: Pluperfect Verb per Verb Token,Morphological
+Morphological Complexity Inflection Feature: Simple Future Verb per Verb Token,Morphological
+Number of Morphological Features: Inflected Infinitive Verbs,Count
+Syntactic Complexity Feature: Copulative Coordinate Phrases per Sentence,Syntactic
+Dependency Locality Theory: Total IC at Finite Verb (no modifier weight + less coordination weight + added verb weight),Syntactic
+Cohesive Complexity Feature: Mendes Multi-Word Connectives per Connective,Discourse
+Lexical Sophistication Feature: Age of Acquisition (AW Type),Lexical
+Lexical Sophistication Feature: Familiarity (AW Type),Lexical
+Lexical Sophistication Feature: SUBTLEX Frequency Band 5,Lexical
+Lexical Sophistication Feature: SUBTLEX Logarithmic Contextual Diversity (SD FW Token),Lexical
+Lexical Sophistication Feature: SUBTLEX Word Frequency per Million (SD AW Token),Lexical
+Number of POS Feature: Adverb Types,Count
+Number of Word Types (excluding Punctuation and numbers),Count
+Syntactic Complexity Feature: Noun Phrases per Sentence,Syntactic
+Number of Nomes masculinos terminados em -ão,Count
+Number of Nomes masculinos terminados em -a,Count
+Number of Nomes invariáveis quanto ao género,Count
+Number of Forma plural de nomes masculinos terminados em -ão,Count
+Number of Nomes invariáveis quanto ao número,Count
+Number of Género - Outros casos de flexão,Count
+Number of Plural de nomes compostos,Count
+"Number of Diminutivos e aumentaivos frequentes (-inho, -ito, -zinho, -zito)",Count
+Number of Adjetivos invariáveis quanto ao género,Count
+Number of Adjetivos invariáveis quanto ao número,Count
+Number of Comparativo,Count
+Number of Superlativo relativo,Count
+Number of Comparativos e superlativos irregulares frequentes,Count
+Number of Feminino de adjetivos compostos,Count
+Number of Plural de adjetivos compostos,Count
+Number of Superlativo (-íssimo),Count
+Number of Grau - Outros processos,Count
+Number of Pretérito perfeito simples do indicativo - verbos regulares,Count
+Number of Pretérito perfeito simples do indicativo - verbos irregulares,Count
+Number of Pretérito imperfeito do indicativo - verbos regulares,Count
+Number of Pretérito imperfeito do indicativo - verbos irregulares,Count
+Number of Particípio passado - particípios regulares,Count
+Number of Particípio passado - particípios irregulares (frequentes),Count
+Number of Auxiliar ter no imperfeito do indicativo + particípio passado do verbo principal,Count
+Number of Pretérito perfeito composto do indicativo,Count
+Number of Infinitivo pessoal simples,Count
+Number of Futuro simples do indicativo - verbos regulares,Count
+Number of Futuro simples do indicativo - verbos irregulares,Count
+Number of Condicional simples - verbos regulares,Count
+Number of Condicional simples - verbos irregulares,Count
+Number of Presente do conjuntivo - verbos regulares,Count
+Number of Presente do conjuntivo - alternância vocálica na 1.ª pessoa de alguns verbos,Count
+Number of Presente do conjuntivo - verbos irregulares,Count
+Number of Particípio passado - forma irregular de particípio (particípios duplos),Count
+Number of Futuro simples do indicativo - uso - possibilidade (construção condicional),Count
+Number of Pretérito imperfeito do conjuntivo - verbos regulares,Count
+Number of Pretérito imperfeito do conjuntivo - verbos irregulares,Count
+Number of Futuro simples do conjuntivo - verbos regulares,Count
+Number of Futuro simples do conjuntivo - verbos irregulares,Count
+Number of Mais-que-perfeito composto do conjuntivo,Count
+Number of Condicional composto,Count
+Number of Infinitivo impessoal composto,Count
+Number of Gerúndio simples,Count
+Number of Futuro composto do indicativo,Count
+Number of Pretérito perfeito composto do conjuntivo,Count
+Number of Futuro composto do conjuntivo,Count
+Number of Infinitivo pessoal composto,Count
+Number of Gerúndio composto,Count
+Number of Pretérito mais-que-perfeito simples do indicativo,Count
+Number of Frase passiva adjetival com auxiliar estar + pp,Count
+Number of Frase passiva periferástica (ser + pp) com complemento agente,Count
+Number of Frase passiva periferástica (ser + pp) sem complemento agente,Count
+Number of Frase passiva reflexa no singular,Count
+Number of Frase passiva reflexa no plural,Count
+Number of Frase negativa marcada por outras palavras de valor negativo,Count
+Number of Coordenada copulativa - e,Count
+Number of Coordenada disjuntiva - ou,Count
+Number of Coordenada adversativa - mas,Count
+Number of Coordenada conclusiva - então,Count
+Number of Coordenada copulativa - nem,Count
+"Number of Coordenada conclusiva - logo, por isso",Count
+Number of Coordenada conclusiva - pois,Count
+"Number of Coordenada copulativa - não só ... mas também, não só ... como, tanto ... como, nem ... nem",Count
+"Number of Coordenada disjuntiva - ou ... ou, quer ... quer, ora ... ora, seja ... seja",Count
+"Number of Coordenada adversativa - porém, contudo, no entanto, ainda assim",Count
+"Number of Coordenada conclusiva - portanto, assim",Count
+"Number of Coordenada adversativa - todavia, não obstante",Count
+"Number of Coordenada conclusiva - por conseguinte, por consequência",Count
+Number of Coordenada explicativa - que,Count
+Number of Coordenada assindética,Count
+Number of Subordinada substantiva completiva iniciada por que com função de complemento com verbos epistémicos (achar),Count
+Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de sujeito ser,Count
+Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com verbos optativos e volitivos (querer),Count
+Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com verbos epistémicos (saber),Count
+"Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com verbos modais (pode, dever)",Count
+"Number of Subordinada substantiva completiva iniciada por que com função de complemento com verbos epistémicos (pensar, saber)",Count
+Number of Subordinada substantiva completiva iniciada por que com função de complemento com verbos epistémicos (dizer),Count
+"Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com verbos optativos e volitivos (esperar, desejar, ...)",Count
+"Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com verbos epistémicos (pensar, ...)",Count
+"Number of Subordinada substantiva completiva de infinitivo (impessoal) com função de complemento com precisar, necessitar + de",Count
+"Number of Subordinada substantiva completiva iniciada por que com função de complemento com verbos que ocorrem em colocação com nomes (dar/fazer pena, fazer falta, ...)",Count
+"Number of Subordinada substantiva completiva iniciada por que com função de complemento com verbos introduzidos por que ou se, com alterações de significado",Count
+"Number of Subordinada substantiva completiva de infinitivo (pessoal) com diferentes verbos, com infinitivo pessoal composto",Count
+Grammatical Complexity: Nomes masculinos terminados em -ão per noun tokens,Grammatical
+Grammatical Complexity: Nomes masculinos terminados em -a per noun tokens,Grammatical
+Grammatical Complexity: Nomes invariáveis quanto ao género per noun tokens,Grammatical
+Grammatical Complexity: Forma plural de nomes masculinos terminados em -ão per noun tokens,Grammatical
+Grammatical Complexity: Nomes invariáveis quanto ao número per noun tokens,Grammatical
+Grammatical Complexity: Género - Outros casos de flexão per noun tokens,Grammatical
+Grammatical Complexity: Plural de nomes compostos per noun tokens,Grammatical
+Grammatical Complexity: Diminutivos e aumentativos frequentes per noun tokens,Grammatical
+Grammatical Complexity: Adjetivos invariáveis quanto ao género per adjective tokens,Grammatical
+Grammatical Complexity: Adjetivos invariáveis quanto ao número per adjective tokens,Grammatical
+Grammatical Complexity: Comparativo per adjective tokens,Grammatical
+Grammatical Complexity: Superlativo relativo per adjective tokens,Grammatical
+Grammatical Complexity: Comparativos e superlativos irregulares frequentes per adjective tokens,Grammatical
+Grammatical Complexity: Feminino de adjetivos compostos per adjective tokens,Grammatical
+Grammatical Complexity: Plural de adjetivos compostos per adjective tokens,Grammatical
+Grammatical Complexity: Superlativo (-íssimo) per adjective tokens,Grammatical
+Grammatical Complexity: Grau - Outros processos per adjective tokens,Grammatical
+Grammatical Complexity: Pretérito perfeito simples do indicativo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito perfeito composto do indicativo per verb tokens,Grammatical
+Grammatical Complexity: Infinitivo pessoal simples per verb tokens,Grammatical
+Grammatical Complexity: Futuro simples do indicativo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Futuro simples do indicativo - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Condicional simples - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Condicional simples - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Presente do conjuntivo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Presente do conjuntivo - alternância vocálica na 1.ª pessoa de alguns verbos per verb tokens,Grammatical
+Grammatical Complexity: Presente do conjuntivo - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Futuro simples do indicativo - uso - possibilidade per verb tokens,Grammatical
+Grammatical Complexity: Frase passiva adjetival com auxiliar estar + pp per sentence,Grammatical
+Grammatical Complexity: Frase passiva perifrástica (ser + pp) com complemento agente per sentence,Grammatical
+Grammatical Complexity: Frase passiva perifrástica (ser + pp) sem complemento agente per sentence,Grammatical
+Grammatical Complexity: Frase passiva reflexa no singular per sentence,Grammatical
+Grammatical Complexity: Frase passiva reflexa no plural per sentence,Grammatical
+Grammatical Complexity: Frase negativa marcada por outras palavras de valor negativo per sentence,Grammatical
+Grammatical Complexity: Coordenada copulativa - e per clause,Grammatical
+Grammatical Complexity: Coordenada disjuntiva - ou per clause,Grammatical
+Grammatical Complexity: Coordenada adversativa - mas per clause,Grammatical
+Grammatical Complexity: Coordenada conclusiva - então per clause,Grammatical
+Grammatical Complexity: Coordenada copulativa - nem per clause,Grammatical
+"Grammatical Complexity: Coordenada conclusiva - logo, por isso per clause",Grammatical
+Grammatical Complexity: Coordenada conclusiva - pois per clause,Grammatical
+Grammatical Complexity: Coordenada copulativa - correlatives per clause,Grammatical
+Grammatical Complexity: Coordenada disjuntiva - correlatives per clause,Grammatical
+"Grammatical Complexity: Coordenada adversativa - porém, contudo, no entanto, ainda assim per clause",Grammatical
+"Grammatical Complexity: Coordenada conclusiva - portanto, assim per clause",Grammatical
+"Grammatical Complexity: Coordenada adversativa - todavia, não obstante per clause",Grammatical
+"Grammatical Complexity: Coordenada conclusiva - por conseguinte, por consequência per clause",Grammatical
+Grammatical Complexity: Coordenada explicativa - que per clause,Grammatical
+Grammatical Complexity: Coordenada assindética per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva iniciada por que (achar) per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva de infinitivo (impessoal) com função de sujeito ser per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva de infinitivo (querer) per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva de infinitivo (saber) per clause,Grammatical
+"Grammatical Complexity: Subordinada substantiva completiva de infinitivo (pode, dever) per clause",Grammatical
+"Grammatical Complexity: Subordinada substantiva completiva iniciada por que (pensar, saber) per clause",Grammatical
+Grammatical Complexity: Subordinada substantiva completiva iniciada por que (dizer) per clause,Grammatical
+"Grammatical Complexity: Subordinada substantiva completiva de infinitivo (esperar, desejar) per clause",Grammatical
+"Grammatical Complexity: Subordinada substantiva completiva de infinitivo (pensar, ...) per clause",Grammatical
+"Grammatical Complexity: Subordinada substantiva completiva de infinitivo (precisar, necessitar + de) per clause",Grammatical
+Grammatical Complexity: Subordinada substantiva completiva iniciada por que com verbos em colocação com nomes per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva iniciada por que com verbos introduzidos por que ou se per clause,Grammatical
+Grammatical Complexity: Subordinada substantiva completiva de infinitivo (pessoal) com diferentes verbos per clause,Grammatical
+Grammatical Complexity: Auxiliar ter no imperfeito do indicativo + particípio passado per verb tokens,Grammatical
+Grammatical Complexity: Condicional composto per verb tokens,Grammatical
+Grammatical Complexity: Futuro composto do conjuntivo per verb tokens,Grammatical
+Grammatical Complexity: Futuro composto do indicativo per verb tokens,Grammatical
+Grammatical Complexity: Futuro simples do conjuntivo - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Futuro simples do conjuntivo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Gerúndio composto per verb tokens,Grammatical
+Grammatical Complexity: Gerúndio simples per verb tokens,Grammatical
+Grammatical Complexity: Infinitivo impessoal composto per verb tokens,Grammatical
+Grammatical Complexity: Infinitivo pessoal composto per verb tokens,Grammatical
+Grammatical Complexity: Mais-que-perfeito composto do conjuntivo per verb tokens,Grammatical
+Grammatical Complexity: Particípio passado - forma irregular de particípio per verb tokens,Grammatical
+Grammatical Complexity: Particípio passado - particípios irregulares per verb tokens,Grammatical
+Grammatical Complexity: Particípio passado - particípios regulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito imperfeito do conjuntivo - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito imperfeito do conjuntivo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito imperfeito do indicativo - verbos irregulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito imperfeito do indicativo - verbos regulares per verb tokens,Grammatical
+Grammatical Complexity: Pretérito mais-que-perfeito simples do indicativo per verb tokens,Grammatical
+Grammatical Complexity: Pretérito perfeito composto do conjuntivo per verb tokens,Grammatical
+Grammatical Complexity: Pretérito perfeito simples do indicativo - verbos irregulares per verb tokens,Grammatical
